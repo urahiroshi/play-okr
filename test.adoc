@@ -1,0 +1,9 @@
+- hoge
+- fuga
+    - piyo
+
+    [%collapsible]
+    ====
+    hogehoge
+    ====
+
